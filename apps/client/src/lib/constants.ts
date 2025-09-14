@@ -19,7 +19,7 @@ export const BASE_CLIENT_URL = IS_DEV_ENV
   : "https://TeamEdit.dulapahv.dev";
 export const BASE_SERVER_URL = IS_DEV_ENV
   ? "http://localhost:3001"
-  : "https://TeamEdit-server.dulapahv.dev";
+  : "server-production-acc3.up.railway.app";
 
 export const STATUS_URL = "https://TeamEdit-status.dulapahv.dev";
 export const KASCA_SERVER_MONITOR_ID = "2887417";
