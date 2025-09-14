@@ -18,6 +18,3 @@
 **Testing:** Playwright, Jest  
 **Tools & CI/CD:** Turborepo, GitHub Actions, ESLint, Prettier  
 
----
-
-📜 MIT License
