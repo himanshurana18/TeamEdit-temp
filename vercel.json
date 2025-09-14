@@ -10,6 +10,11 @@
       "runtime": "nodejs18.x"
     }
   },
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  },
   "rewrites": [
     {
       "source": "/(.*)",
